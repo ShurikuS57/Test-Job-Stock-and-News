@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="content_type">
+        <item>@string/text_news</item>
+        <item>@string/text_stock</item>
+        <item>@string/text_super_stock</item>
+    </string-array>
+
+
+</resources>

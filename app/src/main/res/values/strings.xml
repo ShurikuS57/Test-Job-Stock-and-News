@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StockAndNews</string>
+    <string name="title_stock_and_news">Акции и новости</string>
+
+    <string name="pref_key_token" translatable="false">pref_key_token</string>
+    <string name="text_news">Новость</string>
+    <string name="msg_fail_load_news_detail">Fail load news detail</string>
+    <string name="msg_no_connect_to_server">No connection to the server</string>
+
+    <string name="text_stock">Акции</string>
+    <string name="text_super_stock">Спецпредложение</string>
+
+    <string name="image_description">Image description</string>
+
+</resources>
